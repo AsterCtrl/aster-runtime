@@ -1,5 +1,10 @@
 # AsterCtrl Runtime
 
+> [!IMPORTANT]
+> This legacy repository is archived. Its history and maintained implementation
+> were consolidated into [AsterCtrl/AsterCtrl](https://github.com/AsterCtrl/AsterCtrl).
+> Do not use this repository for new development.
+
 Portable runtime contracts for distributed control applications.
 
 This repository owns Module lifecycle, execution contexts, executors, messaging,
